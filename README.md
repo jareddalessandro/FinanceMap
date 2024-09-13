@@ -3,7 +3,7 @@
 This webapp uses an SVG file to display an interactive map which then enables you to dynamically query the World Bank API to obtain country data.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
-![My Image](/images/image.png)
+![My Image](https://github.com/jareddalessandro/FinanceMap/blob/main/images/image.PNG)
 
 ## Development server
 
